@@ -1,5 +1,5 @@
 .banner {
-  background-image: linear-gradient(rgba(39, 71, 118, 0.6), rgba(39, 71, 118, 0.6)), url(../../images/nantes.jpg);
+  background-image: linear-gradient(rgba(128, 179, 233, 0.4), rgba(128, 179, 233, 0.7)), url(../../images/nantes.jpg);
   background-size: cover;
   background-position: center;
   color: white;
